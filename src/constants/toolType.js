@@ -1,3 +1,3 @@
-export const toolType = {
-    RECTANGLE: "RECTANGLE",
+export const toolTypes = {
+  RECTANGLE: "RECTANGLE",
 };
